@@ -64,7 +64,7 @@ Clone the repository and install the required dependencies:
 ```bash
 # Clone the repo
 git clone https://github.com/mariorpn/dns-benchmark-opensource.git
-cd dns-bench-pro
+cd dns-benchmark-opensource
 
 # Install dependencies
 pip install customtkinter dnspython
