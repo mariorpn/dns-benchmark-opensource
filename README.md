@@ -27,18 +27,26 @@ DNS Benchmark opensource is a multi-threaded, professional-grade benchmarking ut
 Upon launching, you will see the control sidebar and the results panel.
 
   * **Start Benchmark:** Clears previous data and begins a new parallel test.
+![alt text](./images/image-0.png)
+
   * **Stop Benchmark:** Gracefully interrupts the current thread pool.
+![alt text](./images/image-1.png)
+
   * **Manage IPs:** Opens a sub-window to add or delete DNS servers from your list.
+![alt text](./images/image-2.png)
+
 
 ### 2\. Sorting & Analysis
 
 Just like in **Google Sheets**, click on the column headers to find the fastest or most reliable server.
 
   * *Example:* Click **AVG** once to see the fastest servers at the top. Click again to see the slowest.
+![alt text](./images/image-3.png)
 
 ### 3\. IP Management
 
 Add your local gateway (e.g., Pi-hole, AdGuard Home) or enterprise resolvers.
+![alt text](./images/image-4.png)
 
 -----
 
